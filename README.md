@@ -68,8 +68,9 @@ Ensure these CSV files are available at the paths specified in the code, or upda
    - The trained model is saved as `spam_detection_nn_model.h5`.
    - The `CountVectorizer` is saved as `count_vectorizer.pkl` using the `pickle` module.
 
-## example of runinning
+## example of running
 ![example](image.png)
+The model may not be very accurate due to the limited data the model was trained on, for more accuracy train the model with more datasets.
 
 ## Authors
 Mariam Adel https://github.com/MariamAdel9 
